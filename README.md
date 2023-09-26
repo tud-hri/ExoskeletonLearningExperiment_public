@@ -4,6 +4,8 @@ This is the Unity project that contains the full experiment described in the pap
 
 The protocol we used for starting and running the experiment can be found [here](Documentation/protocol.md).
 
+Finally, there is also a data file, found [here](Documentation/Data_public.xlsx), containing the **results data** for the full experiment.
+
 ## Launch the project
 - Load the project into Unity 2020.3.21f1 (using Unity Hub).
 - Import [FinalIK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290) - This package is not included because it is a paid package, so you will need to import it yourself.
