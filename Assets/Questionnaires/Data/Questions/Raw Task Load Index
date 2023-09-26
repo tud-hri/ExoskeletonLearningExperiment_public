@@ -1,0 +1,78 @@
+{
+   "qTitle":"Raw Task Load Questionnaire",
+   "qInstructions":"Instructions: Please read each statement and answer on a 1 to 7 scale indicating how much each statement applied to you during the experiment. There are no right or wrong answers. 
+   Please answer spontaneously and intuitively. Scale example: 1–strongly disagree, 4–neither agree nor disagree, 7–strongly agree.",
+   "qId":"VEQ",
+   "questions":[
+      {
+         "pId":"page1",
+         "qType":"linearGrid",
+         "qInstructions":"Please answer spontaneously and intuitively",
+         "qData":[
+            {
+               "qId":"q1",
+               "qText":"MENTAL DEMAND",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low", 
+               "qMax":"20",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"q2",
+               "qText":"PHYSICAL DEMAND: How much physical activity was required (e.g., pushing, pulling, turning, controlling, activating, etc.)? Was the task easy or demanding, slow or brisk, slack or strenuous, restful or laborious?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low", 
+               "qMax":"100",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"q3",
+               "qText":"TEMPORAL DEMAND: How much time pressure did you feel due to the rate or pace at which the tasks or task elements occurred? Was the pace slow and leisurely or rapid and frantic?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low", 
+               "qMax":"100",
+               "qMaxLabel":"High"
+            }
+         ]
+      },
+      {
+         "pId":"page2",
+         "qType":"linearGrid",
+         "qInstructions":"Please answer spontaneously and intuitively",
+         "qData":[
+            {
+               "qId":"q4",
+               "qText":"EFFORT: How successful do you think you were in accomplishing the goals of the task set by the experimenter (or yourself)? How satisfed were you with your performance in accomplishing these goals?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Good", 
+               "qMax":"100",
+               "qMaxLabel":"Poor"
+            },
+            {
+               "qId":"q5",
+               "qText":"PERFORMANCE: How hard did you have to work (mentally and physically) to accomplish your level of performance?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low", 
+               "qMax":"100",
+               "qMaxLabel":"High"
+            },
+            {
+               "qId":"q6",
+               "qText":"FRUSTRATION LEVEL: How insecure, discouraged, irritated, stressed, and annoyed versus secure, gratifed, content, relaxed, and complacent did you feel during the task?",
+               "qMandatory":"true",
+               "qMin":"0",
+               "qMinLabel":"Low", 
+               "qMax":"100",
+               "qMaxLabel":"High"
+            }
+         ]
+      }
+   ],
+   "qMessage":"You have completed the questionnaire",
+   "qAcknowledgments":"Thank you very much for taking part in the experiment! We appreciate your time!"
+}

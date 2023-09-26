@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.upperlimbtracking.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vrpch\\Antonio\\Projects\\Experiment_v1\\UpperLimbTracking\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "UpperLimbTracking [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "stages": [ "training" ],
+  "starting_trial": 0,
+  "starting_q": 0,
+  "familiarization_time": 0,
+  "trial_time": 0,
+  "training_time": 900,
+  "training_trials": 10,
+  "group_type": 1,
+  "_comments": "times are in [s], 0=control w/o vis,1=experimental w/ vis",
+  "stage_info": {
+    "familiarization": "During the familiarization stage you get some time to try out the system and prepare for the baseline test.",
+    "baseline": "During the baseline stage you set your best effort result, walking the maximum distance possible while aiming for an optimal step length without colliding with the walker, while minimizing the trunk inclination (using the walker for as little support as possible).",
+    "training": "In this training phase, you will get some time to learn the correct movements needed to \n walk the maximum distance possible while aiming for an optimal step length without colliding with the walker, while minimizing the trunk inclination (using the walker for as little support as possible).",
+    "final": "During this stage you will set the final test results to evaluate how much you've learning during your training.",
+    "resting": "Please take some time to rest...",
+    "retention": "During this stage you will set the retention test results to evaluate how much of the learning you have done retains after some time."
+  }
+}

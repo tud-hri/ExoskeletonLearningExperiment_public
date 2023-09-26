@@ -1,0 +1,109 @@
+{
+   "qTitle":"Virtual Embodiment Questionnaire",
+   "qInstructions":"Instructions: Please read each statement and answer on a 1 to 7 scale indicating how much each statement applied to you during the experiment. There are no right or wrong answers. 
+   Please answer spontaneously and intuitively. Scale example: 1–strongly disagree, 4–neither agree nor disagree, 7–strongly agree.",
+   "qId":"VEQ",
+   "questions":[
+      {
+         "pId":"page1",
+         "qType":"radio",
+         "qInstructions":"Please answer spontaneously and intuitively",
+         "qData":[
+            {
+               "qId":"q1",
+               "qText":"It seemed like the virtual body was my body.",
+               "qMandatory":"true",
+               "qOptions":[
+                  "1 = strongly disagree",
+                  "2 = disagree",
+                  "3 = somewhat disagree",
+                  "4 = neither agree or disagree",
+                  "5 = somewhat agree",
+                  "6 = agree",
+                  "7 = strongly agree"
+               ]
+            },
+            {
+               "qId":"q2",
+               "qText":"It seemed like the virtual body parts were my body parts.",
+               "qMandatory":"true",
+               "qOptions":[
+                  "1 = strongly disagree",
+                  "2 = disagree",
+                  "3 = somewhat disagree",
+                  "4 = neither agree or disagree",
+                  "5 = somewhat agree",
+                  "6 = agree",
+                  "7 = strongly agree"
+               ]
+            },
+            {
+               "qId":"q3",
+               "qText":"It seemed like I was looking directly at my own body.",
+               "qMandatory":"true",
+               "qOptions":[
+                  "1 = strongly disagree",
+                  "2 = disagree",
+                  "3 = somewhat disagree",
+                  "4 = neither agree or disagree",
+                  "5 = somewhat agree",
+                  "6 = agree",
+                  "7 = strongly agree"
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page2",
+         "qType":"radio",
+         "qInstructions":"Please answer spontaneously and intuitively.",
+         "qMandatory":"true",
+         "qData":[
+            {
+               "qId":"q4",
+               "qText":"It seemed like my body was in the location where the virtual body was.",
+               "qMandatory":"true",
+               "qOptions":[
+                  "1 = strongly disagree",
+                  "2 = disagree",
+                  "3 = somewhat disagree",
+                  "4 = neither agree or disagree",
+                  "5 = somewhat agree",
+                  "6 = agree",
+                  "7 = strongly agree"
+               ]
+            },
+            {
+               "qId":"q5",
+               "qText":"It seemed like I was in control of the virtual body.",
+               "qMandatory":"true",
+               "qOptions":[
+                  "1 = strongly disagree",
+                  "2 = disagree",
+                  "3 = somewhat disagree",
+                  "4 = neither agree or disagree",
+                  "5 = somewhat agree",
+                  "6 = agree",
+                  "7 = strongly agree"
+               ]
+            },
+            {
+               "qId":"q6",
+               "qText":"It seemed like I was causing the movements I saw",
+               "qMandatory":"true",
+               "qOptions":[
+                  "1 = strongly disagree",
+                  "2 = disagree",
+                  "3 = somewhat disagree",
+                  "4 = neither agree or disagree",
+                  "5 = somewhat agree",
+                  "6 = agree",
+                  "7 = strongly agree"
+               ]
+            }
+         ]
+      },
+   ],
+   "qMessage":"You have completed the questionnaire",
+   "qAcknowledgments":"Thank you very much for taking part in the experiment! We appreciate your time!"
+}

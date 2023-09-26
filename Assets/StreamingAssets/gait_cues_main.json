@@ -1,0 +1,26 @@
+{
+  "stages": [
+    "familiarization",
+    "baseline",
+    "training",
+    "familiarization",
+    "final"
+  ],
+    "starting_trial": 0,
+    "starting_q": 0,
+    "avatar_scale": 0,
+    "familiarization_time": 180,
+    "trial_time": 120, 
+    "training_time": 120,
+    "training_trials": 5,
+    "group_type": 1, 
+    "_comments": "times are in [s], 0=control w/o vis,1=experimental w/ vis",
+    "stage_info": {
+        "familiarization": "During the familiarization stage you get some time to try out the system and prepare for the performance test.",
+        "baseline": "During the baseline test, you are going to walk during 2 minutes. \n The main objectives are: Walk as much as you can, minimize your trunk inclination, and maintain an optimal step length without colliding with the walker. \n You did not receive training yet, but try to do your best!,",
+        "training": "During the training phase you are going to have some time to learn the correct movements. \n There will be 5 trials of 2 minutes each. Use them as you consider. This time is for you to practice and improve your performance. \n Remember the objectives: Minimize your trunk inclination, and maintain an optimal step length without colliding with the walker.",
+        "final": "During the final test, you are going to walk during 2 minutes.\n The main objectives are: Walk as much as you can, minimize your trunk inclination, and maintain an optimal step length without colliding with the walker. \n It is time to apply all you learned!",
+        "resting": "Please take some time to rest...",
+        "retention": "During the retention test, you are going to walk during 2 minutes. \n The main objectives are: Walk as much as you can, minimize your trunk inclination, and maintain an optimal step length without colliding with the walker. \n We want to see how much of the learning you have done still retains. Last push!."
+    }
+}

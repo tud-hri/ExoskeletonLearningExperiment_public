@@ -1,0 +1,12 @@
+QuestionType;Question;QuestionID;Answer_Participant_id1_condition_A;Answer_Participant_id1_condition_A
+radio;I think that I would like to use this system frequently...;q1;2;4
+radio;I found the system unnecessarily complex...;q2;3;4
+radio;I thought the system was easy to use...;q3;4;5
+radio;I think that I would need the support of a technical person to be able to use this system...;q4;4;4
+radio;I found the various functions in this system were well integrated...;q5;3;4
+radio;I thought there was too much inconsistency in this system...;q6;4;4
+radio;I would imagine that most people would learn to use this system very quickly...;q7;4;4
+radio;I found the system very cumbersome to use...;q8;3;4
+radio;I felt very confident using the system...;q9;4;5
+radio;I needed to learn a lot of things before I could get going with this system...;q10;4;5
+
